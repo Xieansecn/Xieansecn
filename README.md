@@ -1,7 +1,7 @@
 ## Hi there 👋
 **Welcome to Xieansecn's profile!**
 
-~~But, My So Lazy in Github😭~~
+~~But, I'm So Lazy in Github😭~~
 <!--
 **Xieansecn/Xieansecn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
