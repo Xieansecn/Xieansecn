@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Xieansecn be saw](https://count.getloli.com/@:Xieansecn?theme=rule34)]
+[![Xieansecn be saw](https://count.getloli.com/@:Xieansecn?theme=rule34)](https://github.com/Xieansecn/Xieansecn)
 
 [![Xieansecn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xieansecn&show_icons=true&hide=contribs&show=reviews&theme=github_dark)](https://github.com/Xieansecn/Xieansecn)
 
