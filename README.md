@@ -50,24 +50,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/Xieansecn">
-    <img src="./profile/stats.svg" alt="GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/Xieansecn">
-    <img src="./profile/top-langs.svg" alt="Top Languages" />
-  </a>
-</p>
-
-</div>
-
----
-
 ### 📬 Connect
 
 - **GitHub**：[github.com/Xieansecn](https://github.com/Xieansecn)
